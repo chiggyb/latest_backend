@@ -14,29 +14,29 @@
     ]
   },
   "User": {
-    "dataSource": "db"
+    "dataSource": "cc-reminder"
   },
   "AccessToken": {
-    "dataSource": "db",
+    "dataSource": "cc-reminder",
     "public": false
   },
   "ACL": {
-    "dataSource": "db",
+    "dataSource": "cc-reminder",
     "public": false
   },
   "RoleMapping": {
-    "dataSource": "db",
+    "dataSource": "cc-reminder",
     "public": false,
     "options": {
       "strictObjectIDCoercion": true
     }
   },
   "Role": {
-    "dataSource": "db",
+    "dataSource": "cc-reminder",
     "public": false
   },
   "Details": {
-    "dataSource": "db",
+    "dataSource": "cc-reminder",
     "public": true
   }
 }
