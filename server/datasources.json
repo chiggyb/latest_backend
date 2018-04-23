@@ -1,6 +1,10 @@
 {
   "cc-reminder": {
    "connector":"loopback-connector-mongodb",
-   "url":"mongodb://chiggyb:admin@ds237989.mlab.com:37989/cc-reminder"
+   "url":"mongodb://chiggyb:admin@ds237989.mlab.com:37989/cc-reminder",
+   "database":"cc-reminder",
+   "password":"admin",
+   "user":"chiggyb",
+   "port":"8080"
   }
 }
