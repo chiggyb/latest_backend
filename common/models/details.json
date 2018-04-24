@@ -14,10 +14,66 @@
       "type":"string",
       "required":true
     },
-    "medicine_name":{
+    "med_1":{
       "type":"string",
       "required":true
-    }
+    },
+    "med_2":{
+      "type":"string",
+      "required":false
+    },
+    "med_3":{
+      "type":"string",
+      "required":false
+    },
+    "med_4":{
+      "type":"string",
+      "required":false
+    },
+    "med_5":{
+      "type":"string",
+      "required":false
+    },
+    "quant_1":{
+      "type":"string",
+      "required":false
+    },
+    "quant_2":{
+      "type":"string",
+      "required":false
+    },
+    "quant_3":{
+      "type":"string",
+      "required":false
+    },
+    "quant_4":{
+      "type":"string",
+      "required":false
+    },
+    "quant_5":{
+      "type":"string",
+      "required":false
+    },
+    "color_1":{
+     "type":"string",
+     "required":false
+    },
+    "color_2":{
+      "type":"string",
+      "required":false
+     },
+     "color_3":{
+      "type":"string",
+      "required":false
+     },
+     "color_4":{
+      "type":"string",
+      "required":false
+     },
+     "color_5":{
+      "type":"string",
+      "required":false
+     }
   },
   "validations": [],
   "relations": {},
