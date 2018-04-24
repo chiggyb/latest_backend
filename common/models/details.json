@@ -17,11 +17,6 @@
     "medicine_name":{
       "type":"string",
       "required":true
-    },
-    "quantity":
-    {
-      "type":"integer",
-    "required":true
     }
   },
   "validations": [],
