@@ -73,7 +73,27 @@
      "color_5":{
       "type":"string",
       "required":false
-     }
+     },
+     "time_1":{
+       "type":"string",
+       "required":true
+     },
+     "time_2":{
+      "type":"string",
+      "required":false
+    },
+    "time_3":{
+      "type":"string",
+      "required":false
+    },
+    "time_4":{
+      "type":"string",
+      "required":false
+    },
+    "time_5":{
+      "type":"string",
+      "required":false
+    }
   },
   "validations": [],
   "relations": {},
